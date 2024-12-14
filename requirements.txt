@@ -1,6 +1,7 @@
 dash==2.11.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
+numpy==1.25.0  # Updated version
+pandas==2.0.0  # Updated version
 plotly==5.16.1
-pandas==1.5.3
 requests==2.31.0
